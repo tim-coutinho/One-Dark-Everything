@@ -1,3 +1,6 @@
 [submodule "onedark.vim"]
 	path = onedark.vim
 	url = https://github.com/joshdick/onedark.vim
+[submodule "onedark-stupid-mac.vim"]
+	path = onedark-stupid-mac.vim
+	url = https://github.com/tim-coutinho/onedark.vim

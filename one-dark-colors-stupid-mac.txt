@@ -1,4 +1,4 @@
-Colors are displayed incorrectly in some places on Macs (in my experience) - these are 
+Colors are displayed incorrectly in some places on Macs (in my experience) - these are corrected using a color picker.
 +---------------------------------------------+
 |  Color Name  |         RGB        |   Hex   |
 |--------------+--------------------+---------|
